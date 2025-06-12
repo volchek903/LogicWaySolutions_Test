@@ -2,9 +2,6 @@
 
 Detects hourly **order blocks** and price **imbalances** inside one trading session and
 exports the results to an Excel workbook.
-
-![pipeline](docs/pipeline.svg)
-
 ---
 
 ## ✨ Features
