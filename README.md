@@ -91,9 +91,3 @@ and `clip_imbalance` functions of the script.
 
 Pull‑requests and issue reports are welcome!  
 Feel free to fork the repository and propose improvements.
-
----
-
-## 🪪 License
-
-Released under the **MIT License** — see [`LICENSE`](LICENSE) for details.
